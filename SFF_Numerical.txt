@@ -1,0 +1,9 @@
+{"Documentation":
+	{"Data": 
+		"SNum", "PhoneNum", "MailStop":
+			"Integer", "Integer", "Integer" 
+	}
+	{"File": 
+		"Example_Numerical.kll"
+	}
+}
